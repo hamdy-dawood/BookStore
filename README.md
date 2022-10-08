@@ -1,5 +1,5 @@
 # book_store
-This is Flutter Task for Mobile Using (Cubit).
+This is Flutter Project for Mobile Using (Cubit).
 
 ## Links
 * [My Socials](https://znap.link/hamdy_Dawood)
