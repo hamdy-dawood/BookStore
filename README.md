@@ -1,5 +1,5 @@
 # book_store
-This is Flutter Project for Mobile
+This is Full app Ui with flutter 
 
 ## Links
 * [My Socials](https://znap.link/hamdy_Dawood)
